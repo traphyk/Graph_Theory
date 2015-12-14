@@ -8,4 +8,5 @@ The two textbooks used were:
             Introduction to Graph Theory (2nd Edition), D. West
               ISBN:978-0130144003
               
-            Other book, to be added
+            Graphs and Matrices (Second Edition), R. B. Bapat
+              ISBN:978-9380250694
