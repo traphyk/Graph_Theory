@@ -1,5 +1,5 @@
 # Graph_Theory
-Graph Theory Capstone by C. Zaslowe and N. Purkey, Dec 2015
+Graph Theory Capstone by C. Zaslowe and N. Purkey.
 Talks Given December 10th, 2015
 
 Attached PDF files are slides as presented during talks.
